@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CannonRotate.js">
+    <Files>
+      <File FileName="Assets\Scripts\shittyControllerIMade.js" Line="24" Column="2" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\betterController.js" Line="16" Column="30" />
+      <File FileName="Assets\Scripts\TurretRotation.js" Line="8" Column="48" />
+      <File FileName="Assets\Scripts\CannonRotate.js" Line="8" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
