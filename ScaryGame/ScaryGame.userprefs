@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\AngryGnome\neuralNetworkTest\Assets\moveAndCollide.cs">
+    <Files>
+      <File FileName="..\..\AngryGnome\neuralNetworkTest\Assets\moveAndCollide.cs" Line="103" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\james_000\Documents\GitHub\AngryGnome\neuralNetworkTest\Assets\moveAndCollide.cs" line="106" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\..\AngryGnome\neuralNetworkTest\Assets\moveAndCollide.cs" line="106" offsetX="389" offsetY="1785" expression="currentNode" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

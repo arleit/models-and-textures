@@ -46,7 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Jamie&apos;s Shit\betterController.js" />
+     <Compile Include="Assets\Scripts\BarrelLerp.js" />
      <Compile Include="Assets\Scripts\CannonRotate.js" />
+     <Compile Include="Assets\Scripts\TurretLerp.js" />
      <Compile Include="Assets\Scripts\TurretRotation.js" />
      <Compile Include="Assets\Scripts\forward.js" />
      <Compile Include="Assets\Scripts\shittyControllerIMade.js" />
